@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand juries address and presentments to the mayor and aldermen of the city of Bristol, &amp;c. Com. civit. Bristol. To the Right Worshipful Sir Richard Hart Knight, mayor of the said city, and the right worshipful and worshipful the aldermen of the same, His Majesties justices of the peace, of, and for this city, and the county of the same, now assembled in their general quarter sessions of the peace, begun and held the 12th day of April instant, and by several adjournments continued to this 26th day of the same month, anno Dom. 1681.</title>
+            <author>Bristol (England). Grand Jury.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41759</idno>
+            <idno type="STC">Wing G1500A</idno>
+            <idno type="STC">ESTC R216491</idno>
+            <idno type="EEBO-CITATION">99828219</idno>
+            <idno type="PROQUEST">99828219</idno>
+            <idno type="VID">32646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41759)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32646)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1865:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand juries address and presentments to the mayor and aldermen of the city of Bristol, &amp;c. Com. civit. Bristol. To the Right Worshipful Sir Richard Hart Knight, mayor of the said city, and the right worshipful and worshipful the aldermen of the same, His Majesties justices of the peace, of, and for this city, and the county of the same, now assembled in their general quarter sessions of the peace, begun and held the 12th day of April instant, and by several adjournments continued to this 26th day of the same month, anno Dom. 1681.</title>
+                  <author>Bristol (England). Grand Jury.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>re-printed by the heir of Andrew Anderson, printer to the kings most excellent majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the University of Aberdeen Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+               <term>Bristol (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:32646:1"/>
+            <pb facs="tcp:32646:1"/>
+            <head>THE <hi>GRAND J<g ref="char:V">Ʋ</g>RIES ADDRESS and PRESENTMENTS</hi> TO THE Mayor <hi>and</hi> Aldermen <hi>of the</hi> City <hi>of</hi> Briſtol, <hi>&amp;c.</hi>
+            </head>
+            <head type="sub">
+               <hi>To the Right Worſhipful Sir</hi> Richard Hart <hi>Knight, Mayor of the ſaid City,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on. Civit. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ISTOC.</hi>
+               </note> 
+               <hi>and the Right Worſhipful and Worſhipful the Al<g ref="char:EOLhyphen"/>dermen of the ſame, his</hi> Majeſties <hi>Juſtices of the Peace, of, and for the City, and the County of the ſame, now aſſembled in their General Quarter Seſſions of the Peace, begun and beld the</hi> 12<hi rend="sup">th</hi> 
+               <hi>day of</hi> April <hi>instant, and by ſeveral Adjournments continued to this</hi> 26<hi rend="sup">th</hi> 
+               <hi>day of the ſame Month,</hi> Anno Dom. 1681.</head>
+            <p>WE the Grand Jurors for our Soveraign Lord the King, and for the Body of the County of the ſaid City, as becomes good Chriſti<g ref="char:EOLhyphen"/>ans, do publickly and ſolemnly acknow<g ref="char:EOLhyphen"/>ledge and profeſs our Zeal for the true Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormed Religion, as the ſame is by Law eſtabliſh'd in the Church of <hi>England,</hi> as becomes Loyal and Dutiful Subjects, We take this Opportunity to repeat and teſtifie our Allegiance and bounden Dutie to His Majeſty, his Heirs and Succeſſors, ac<g ref="char:EOLhyphen"/>knowledging with all poſſible Gratitude the great happineſs and Tranquillitie, that (ſince his moſt happy Reſtauration) all his good Subjects have been bleſt with under his moſt gracious Reign and Government; and as becomes good Citizens, We render our unfeigned thanks to the Right Worſhipful Maſter <hi>Mayor,</hi> for his ſingular prudence and integrity in his adminiſtra<g ref="char:EOLhyphen"/>tion (as Chief Magiſtrate) of the Government and Affairs of the City, according to the Duty of his Office; and eſpecially we muſt not omit to perpetuate and tranſmit to Poſterity (a<g ref="char:EOLhyphen"/>mongſt the Records of the Court) the memory of thoſe eminent and good offices done by Himſelf, and ſuch of the Worſhipful Aldermen and worthy Citizens of this City as have joyned with Him, in his and their hearty and active endeavours to ſecure and preſerve the Honour, Welfare and good Government of this City, with our Franchiſes and Priviledges from being invaded or trodden down by Ambitious, Factious, and unreaſonable Men, ſome of whom, by means of extraordinary Favours con<g ref="char:EOLhyphen"/>ſerred on them by this City, have had the happineſs to be ad<g ref="char:EOLhyphen"/>vanced into His Majeſties Royal Grace and Favor, and have been by Him honoured with Dignity, and preferred unto places of conſiderable Truſt and Profit; howſoever by them deſerved or requited. As to what chieſly relates to our preſent duty; foraſ<g ref="char:EOLhyphen"/>much as the Religion eſtabliſhed and profeſt in our Church, hath the higheſt Obligations to Loyalty and Obedience, and is the fir<g ref="char:EOLhyphen"/>meſt Ligature of all Humane Societies, and unleſs that be ſecu<g ref="char:EOLhyphen"/>red and defended, we cannot reaſonably promiſe our ſelves the Bleſſing either of Peace or Trade (both which particulars the Right Worſhipful Maſter <hi>Myor</hi> at the cloſe of the charge given us, was pleaſed in eſpecial manner to commend to our Con<g ref="char:EOLhyphen"/>ſideration) we thought it our duty to employ the greateſt part of the time allot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed us for this preſent ſervice, about enquiring into the true Cauſes of the decay of the firſt of theſe (namely Religion) and with humble ſubmiſſion, to propoſe to this Court the ways and means to vindicate and reſtore it to its former pu<g ref="char:EOLhyphen"/>rity and beauty amongſt us, that ſo the two other <hi>(viz.)</hi> Peace and Trade, which are ſo mainly Influenced by the former, may be Reſtored and Increaſed alſo.</p>
+            <p>And upon ſuch enquiry, we find it too evident and apparent, and in purſuance of our oaths and duty we preſent, that thoſe who have abandoned their Pariſh-Churches, and refuſing to re<g ref="char:EOLhyphen"/>ſort thither, are become frequenters of unlawful Conventicles, and ſome other, who (though they have not perhaps, for fear of the penalties of the Laws, or for other reſpects, altogether forſaken their Pariſh-Churches) are become notable Encoura<g ref="char:EOLhyphen"/>gers and Countenancers of Conventicles, do give the greater <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound to our Religion, and adminiſter the greateſt ſcandal to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> true Profeſſors thereof, and are the principal Authors of all <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>reat diſorders and breaches of his Majeſties peace, diſtur<g ref="char:EOLhyphen"/>bances of the Government of this City, Tumults, Riots, and o<g ref="char:EOLhyphen"/>ther factious, ſeditious, and diſloyal practiſes that have happen<g ref="char:EOLhyphen"/>ed amongſt us, whereby, and by the dangerous and pernicious Principles and Doctrines, as are taught at ſuch Conventicles, and are daily ſpread abroad within this City, by ſuch as are in<g ref="char:EOLhyphen"/>ſpired and actuated by Fanatick zeal and Democratick fury, the very Foundation of our eſtabliſhments, both in Church and State, are endeavoured to be removed, and the minds not only of ſuch as are Inhabitants here, but of ſuch alſo as being ſtran<g ref="char:EOLhyphen"/>gers would otherwiſe reſort hither for the ſake of the Commerce and Traffique, are quite taken off from their Trade and Buſineſs, and are poſſeſs'd many of them with doubts and fears, others with hopes of great alterations, if not a total ſubverſion of the Monarchy and Government, and too much of that time, which would be better employed by ſome in their Callings, is ſpent in debating of State-matters, and in hearing and reading News; which, though oftentimes it proves falſe, yet is very glibly ſwal<g ref="char:EOLhyphen"/>lowed by the Credulous Vulgar, who commonly delight to be entertained with fables and falſhoods, eſpecially ſuch as reflect on his Majeſty, his Affairs or Government, which we preſent as being of great detriment and hinderance to our Trade, as well as deſtructive to his Majeſties peace, and tending to the Impoveriſhment of the City.</p>
+            <p>And therefore we further preſent the tolerating of, or con<g ref="char:EOLhyphen"/>nivance at, ſuch unlawful Conventicles, to be utterly inconſi<g ref="char:EOLhyphen"/>ſtent with the honour and ſafety of the Church, and the intereſt of the Religion by Law eſtabliſhed, his Majeſties peace, and the good Government and Trade of this City; and do humbly deſire that the Laws and Statutes in force againſt ſuch like con<g ref="char:EOLhyphen"/>venticles, as well as againſt <hi>Popiſh</hi> Recuſants, if any be within this City, may be put in ſpeedy and effectual execution, in or<g ref="char:EOLhyphen"/>der to their being ſuppreſt and convicted: and that ſuch as fre<g ref="char:EOLhyphen"/>quent ſuch Conventicles, eſpecially the Preachers, may be pro<g ref="char:EOLhyphen"/>ceeded againſt, and puniſhed as the Law directs, the rather for that they have been ſo often complained of by ſeveral former Grand Juries, at ſeveral former Seſſions, in the Mayoralty of former Mayors, by preſentments of the like nature, which have proved ſo fruitleſs, that were it not that the conſcience of our Oaths and Duties did prevail upon us above all other diſcou<g ref="char:EOLhyphen"/>ragements, we ſhould have forborn theſe Preſentments at this time.</p>
+            <p>We preſent that all ſuch are guilty of the breach of their Oathes of Burgeſſes, who knowing of any unlawful aſſemblies (whether under pretence of Religious Worſhip, or otherwiſe) as have been, are, or ſhall be within this City, contrary to the Laws, do not give notice thereof to Maſter <hi>Mayor</hi> for the time being, or ſuch other Perſon or Perſons, as by the Tenor of the ſaid Oath they are directed.</p>
+            <p>
+               <hi>Item,</hi> We Preſent, that Sir <hi>John Knight,</hi> Kt. one of the Aldermen of this City, who according to the Duty of his Of<g ref="char:EOLhyphen"/>fice, ought to be Aiding and aſſiſting to Mr. Mayor for the time being, in the execution of his Mayoralty, did on the eleventh day of <hi>February</hi> laſt paſt, in a furious and menacing manner, Af<g ref="char:EOLhyphen"/>front and Aſſault the Right Worſhipful Mr. Mayor, on the pub<g ref="char:EOLhyphen"/>lique <hi>Toulzey</hi> whilſt he was in the Execution of his Office of Mayor, and had the Sword of Juſtice before him; He the ſaid
+<pb facs="tcp:32646:2"/>Sir <hi>John Knight</hi> ſhaking a Cane he then held in his hand at the ſaid Mr. Mayor, and calling him baſe fellow, and giving him the lie, in the preſence of diverſe perſons of Quality, and o<g ref="char:EOLhyphen"/>thers; in contempt of our Soveraign Lord the King, to the diſhonour of this City, and the Government thereof.</p>
+            <p>We Preſent the ſaid Sir <hi>John Knight,</hi> for his publick Stig<g ref="char:EOLhyphen"/>matizing and Branding all ſuch of His Majeſties Loyal Subjects, as gave their votes at the laſt Election of Parliament men with<g ref="char:EOLhyphen"/>in this City, for Mr. Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or and Mr. <hi>Tho. I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arle.</hi> Members to ſerve for this City in the laſt Parliament, with diverſe reproach<g ref="char:EOLhyphen"/>ful, odious, and Ignominious Names and Characters, eſpecial<g ref="char:EOLhyphen"/>ly of Papiſts, Popiſh dogs. Jeſuits, and Popiſh Devils.</p>
+            <p>
+               <hi>Item,</hi> We preſent Sir <hi>Robert Atkins</hi> Knight of the Bath, and Recorder, one of the Aldermen of the City, and the ſaid Sir <hi>John Knight, John Lawford</hi> another Alderman of the ſame City, <hi>Henry Merret, Henry Gleſſon</hi> Senior, <hi>William Douning, Samuel Halles, Stephen Watts, John Hine</hi> and <hi>Humphry Creſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> Members of the Common Council of the ſame City; and <hi>Charles Plum<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> Miner, a Citizen and free Burgeſs of the ſame City, for that they, in and by a certain Writing under the Title of a Petition, by them Subſcribed and Publiſhed within this City, directed to the Honourable the Knights, Citizens and Burgeſſes of the Houſe of Commons in Parliament Aſſembled; did ſafely, ma<g ref="char:EOLhyphen"/>liclouſly, and ſcandalouſlie cauſe to be inferred diverſe, no<g ref="char:EOLhyphen"/>torious and ſcandalous Untruths and Falſhoods, tending to the Diſhonour and the Reproach of the good Government of this City, of Mr. Mayor, and the preſent Sheriffs of the ſame: and diverſe other perſons of Quality and Loyalty; particular<g ref="char:EOLhyphen"/>ly, thoſe of the Artillery within the ſaid City, and to the ſtir<g ref="char:EOLhyphen"/>ring up of cauſleſs heats, Animoſities, and breaches of His Ma<g ref="char:EOLhyphen"/>jeſties Peace amongſt His Majeſties Subjects within this City, and elſewhere; and we humbly ſubmit it to the conſideration of this Court, whether the ſaid Sir <hi>Robert Atkins</hi> his continual Non-Reſidence amongſt us, and his deſerting the Service of this City, in his not Adviſing and Aſſiſting Mr. Mayor, in mat<g ref="char:EOLhyphen"/>ters of great Importance to this City, be not a ſufficient cauſe for removing him from his place of Recorder of the ſaid City.</p>
+            <p>We Preſent <hi>John Roe,</hi> to be a Common lover of Diſcord and ſtriſe amongſt his Majeſties Subjects within this City, one of the chief Authors of all thoſe ſad Diviſions that have lately riſen amongſt us; a perſon of a Vitious and Profligate life and Converſation, a Liar, a Falſe Accuſer of His Majeſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Sub<g ref="char:EOLhyphen"/>jects, and not fit to approach the perſon or company of Mr. Mayor, or any other of the Magiſtrates of this City, much leſs to bear the Sword before him; and in caſe he be not already diſmiſt from bearing the Sword before Mr. Mayor, We <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umbly pray his Worſhip, that at ſome convenient time he will pleaſe to conveen an houſe of the Common Council, in order to diſmiſs him, and chuſe ſome fit and Loyal perſon for that Service.</p>
+            <p>
+               <hi>Item,</hi> We Preſent that <hi>Rich. Fairclougth, John Weeks, George Fowns, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Young, John Moone, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Steele, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Throughton,</hi> and diverſe others, whoſe Names we do not as yet know, not being in Holy Orders as we believe, but being Non<g ref="char:EOLhyphen"/>conformiſt Preachers, do frequently take upon them to Preach and Teach without being Licenſed, in ſeveral unlawful Con<g ref="char:EOLhyphen"/>venticles and Meetings, let up and continued within this City, contrary to the Laws and Statutes in that behalf; whereby they ſeduce diverſe of his Majeſties Subjects from their Loyalty and Obedience: And that the Laws in Force, eſpecially the Act of Parliament made at <hi>Oxon,</hi> for the reſtraining of Non-Con<g ref="char:EOLhyphen"/>formiſts to come into Cities or Corporations, or within five miles of them, be put in ſpeedy execution againſt them; It be<g ref="char:EOLhyphen"/>ing impoſiple that the peace of this City ſhould be preſerved to long as ſuch Incendiaries are tolerated amongſt us.</p>
+            <p>
+               <hi>Item,</hi> We Preſent that the Coffe-houſe and Tipling-houſe of <hi>John Kimber</hi> near the <hi>Toulzey,</hi> in the Pariſh and Ward of St. <hi>Ewen</hi> within this City, hath a door newly made therein near adjoyning, and oppoſite to St. <hi>Ewins</hi> principal Church door, whereby diverſe diſſolute, idle and diſorderly perſons ſitting Tipling and Sinnaking Tobacco in the ſaid Coffee-houſe at time of ſaying of Divine Service, and doing other Holy Offices in the ſame Church, do with deriſion and contempt look on ſuch as are at their Devotions in the ſaid Pariſh Church, and by their Tipling and Tobacco taking there, do offend and in<g ref="char:EOLhyphen"/>terupt ſuch as are ſo at Church in ſuch their Devotion, and greatly Scandalize them.</p>
+            <p>And We further Preſent, that the ſaid Coffee-houſe is com<g ref="char:EOLhyphen"/>monly frequented as well on Lords days as other days, by many Schiſmatical and Seditions Sectaries, and other Diſloyal per<g ref="char:EOLhyphen"/>ſons, where for their encouragement in Tipling, they are uſu<g ref="char:EOLhyphen"/>ally entertained with falſe News, Lying and Scandalous Li<g ref="char:EOLhyphen"/>bels and Pamphlets, tending to the Reproach and Diſhonour of the Eſtabliſh'd Religion, and of his Majeſtie and Govern<g ref="char:EOLhyphen"/>ment; and diverſe of his great Officers and Miniſters of Seate. For avoiding whereof, and the great inconveniences and miſ<g ref="char:EOLhyphen"/>chiefs thereby ariſing; and for removing the Offence thereby juſtly given to diverſe of His Majeſties Loyal Subjects; We Preſent it as neceſſary, and Humbly pray, that if it lie in the Power of this Court, the ſaid houſe may be ſuppreſt, and not applyed to that ill uſe, or elſe that this Court will take Order that no Printed or Written News or Pamphlets be ſuffered to be Read or Publiſhed there, or in any other Coffee or Tipling-houſe, but only ſuch as ſhall firſt be ſhew'n to Mr. Mayor, or the Alderman of the Ward for the time being, where ſuch Coffee houſe is, and be by one of them Allowed or Approved of, as fit to be Read or Publiſhed.</p>
+            <p>The reſt of our Preſentments are contained in ſeveral Sche<g ref="char:EOLhyphen"/>dules hereunto annexed: Thus having done Our parts in Pre<g ref="char:EOLhyphen"/>ſenting according to our Conſciences, We preſume your Wor<g ref="char:EOLhyphen"/>ſhips will not be wanting in puniſhing, as Your Duty, and as the Law directs; by which means ſuture Grand Jurors will be encouraged to preſent Offenders and offences likewiſe. And if ſo, We may Reaſonably hope to ſee Diſloyal, Seditious, Fa<g ref="char:EOLhyphen"/>ctious, and Diſorderly perſons diſcountenanced; and Peace, and Plenty, and all outward Happineſs to flouriſh amongſt us; to the envy of his Majeſties, and our Enemies; to the Joy and Comfort of us all, and of his Majeſty alſo, whoſe Life and Reign, GOD Almighty long preſerve, <hi>AMEN.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Walter Gunter,</hi>
+                     </item>
+                     <item>
+                        <hi>George Larkin,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Brookhouſe,</hi>
+                     </item>
+                     <item>
+                        <hi>John Ollife,</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Millard,</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Lugg.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Turner,</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Gibbins,</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Lewis.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Durbin,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Rich,</hi>
+                     </item>
+                     <item>
+                        <hi>Benjamin Roſtern,</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Lippiac,</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Kirwood,</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Rogerſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Tilie,</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Daniele,</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Scott.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to the Kings moſt Excellent MAJESTY, <hi>Anno DOM.</hi> 1681.</p>
+            <pb facs="tcp:32646:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
